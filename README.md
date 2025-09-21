@@ -26,7 +26,7 @@ O **Adote.me** é um sistema web intuitivo e completo para a adoção de animais
   - **Banco de Dados:**
       - SQLite3
   - **Outras Ferramentas:**
-      - `django-bootstrap-v5`, `Pillow` para upload de imagens, `anychart` para os gráficos]
+      - `django-bootstrap-v5`, `Pillow` para upload de imagens, `anychart` para os gráficos
 -----
 ## Estrutura de URL's
 - `http://127.0.0.1:8000/admin/`
