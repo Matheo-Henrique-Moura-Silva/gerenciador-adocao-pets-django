@@ -59,7 +59,7 @@ Certifique-se de ter o Python 3 e o `pip` instalados em sua máquina.
 2.  Navegue até o diretório do projeto:
 
     ```bash
-    cd gerenciador-adocao-pets-django
+    cd gerenciador-adocao-pets-django-main
     ```
 
 3.  Crie e ative um ambiente virtual (recomendado):
