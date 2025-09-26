@@ -46,7 +46,7 @@ O **Adote.me** é um sistema web intuitivo e completo para a adoção de animais
 
 ### Pré-requisitos
 
-Certifique-se de ter o Python 3 e o `pip` instalados em sua máquina.
+Certifique se de ter o Python 3 e o `pip` instalados em sua máquina.
 
 ### Instalação
 
